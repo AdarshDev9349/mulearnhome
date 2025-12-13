@@ -4,8 +4,8 @@
     {
       "username": "alvin-dennis",
       "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 2,
+      "prs_opened": 5,
+      "prs_merged": 5,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
@@ -47,6 +47,15 @@
       "displayname": "Awindsr"
     },
     {
+      "username": "Athira1903",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Athira Biju"
+    },
+    {
       "username": "stccreation",
       "commits": 0,
       "prs_opened": 1,
@@ -56,6 +65,24 @@
       "displayname": "Shaheen T"
     },
     {
+      "username": "AFLAHAC",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "AFLAHAC"
+    },
+    {
+      "username": "alkadevii",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Alka Devi"
+    },
+    {
       "username": "joyanna27",
       "commits": 0,
       "prs_opened": 2,
@@ -63,39 +90,12 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "joyanna27"
-    },
-    {
-      "username": "afiya525",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Afiya Fathima"
-    },
-    {
-      "username": "AFLAHAC",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "AFLAHAC"
-    },
-    {
-      "username": "KIRA-X25",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "KIRA-X25"
     }
   ],
   "overall": [
     {
       "username": "AswinAsok",
-      "commits": 5792,
+      "commits": 5791,
       "prs_opened": 42,
       "prs_merged": 41,
       "issues_opened": 63,
