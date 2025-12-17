@@ -11,15 +11,6 @@
       "displayname": "Alvin Dennis"
     },
     {
-      "username": "Amith-Abey-Stephen",
-      "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 2,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Amith Abey Stephen"
-    },
-    {
       "username": "Safwancs7",
       "commits": 0,
       "prs_opened": 3,
@@ -27,6 +18,15 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Muhammad Safwan C S"
+    },
+    {
+      "username": "Amith-Abey-Stephen",
+      "commits": 0,
+      "prs_opened": 2,
+      "prs_merged": 2,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Amith Abey Stephen"
     },
     {
       "username": "Blackhole-supernova",
@@ -40,7 +40,7 @@
     {
       "username": "awindsr",
       "commits": 0,
-      "prs_opened": 1,
+      "prs_opened": 2,
       "prs_merged": 1,
       "issues_opened": 0,
       "issues_closed": 0,
