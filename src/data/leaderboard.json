@@ -20,15 +20,6 @@
       "displayname": "Amith Abey Stephen"
     },
     {
-      "username": "awindsr",
-      "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 2,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Awindsr"
-    },
-    {
       "username": "Safwancs7",
       "commits": 0,
       "prs_opened": 3,
@@ -47,22 +38,22 @@
       "displayname": "Blackhole-supernova"
     },
     {
-      "username": "Anandhu0724",
+      "username": "awindsr",
       "commits": 0,
       "prs_opened": 2,
-      "prs_merged": 0,
+      "prs_merged": 2,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Anandhu Krishnan 0724"
+      "displayname": "Awindsr"
     },
     {
-      "username": "joyanna27",
+      "username": "JestyJose",
       "commits": 0,
       "prs_opened": 2,
-      "prs_merged": 0,
+      "prs_merged": 1,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "joyanna27"
+      "displayname": "Jesty Jose "
     },
     {
       "username": "Athira1903",
@@ -90,6 +81,15 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "AFLAHAC"
+    },
+    {
+      "username": "alkadevii",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Alka Devi"
     }
   ],
   "overall": [
