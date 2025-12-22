@@ -65,6 +65,15 @@
       "displayname": "Athira Biju"
     },
     {
+      "username": "SaiV-05-18",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Saivivek M.V"
+    },
+    {
       "username": "stccreation",
       "commits": 0,
       "prs_opened": 1,
@@ -81,15 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "AFLAHAC"
-    },
-    {
-      "username": "alkadevii",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Alka Devi"
     }
   ],
   "overall": [
