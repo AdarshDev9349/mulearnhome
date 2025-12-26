@@ -74,6 +74,15 @@
       "displayname": "Saivivek M.V"
     },
     {
+      "username": "meenuks141",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Meenu K S "
+    },
+    {
       "username": "stccreation",
       "commits": 0,
       "prs_opened": 1,
@@ -81,15 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Shaheen T"
-    },
-    {
-      "username": "AFLAHAC",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "AFLAHAC"
     }
   ],
   "overall": [
