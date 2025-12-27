@@ -23,7 +23,7 @@
       "username": "Amith-Abey-Stephen",
       "commits": 0,
       "prs_opened": 3,
-      "prs_merged": 2,
+      "prs_merged": 3,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Amith Abey Stephen"
@@ -56,6 +56,15 @@
       "displayname": "Jesty Jose "
     },
     {
+      "username": "Anandhu0724",
+      "commits": 0,
+      "prs_opened": 3,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Anandhu Krishnan 0724"
+    },
+    {
       "username": "Athira1903",
       "commits": 0,
       "prs_opened": 1,
@@ -81,15 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Meenu K S "
-    },
-    {
-      "username": "stccreation",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Shaheen T"
     }
   ],
   "overall": [
