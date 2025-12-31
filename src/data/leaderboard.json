@@ -2,28 +2,28 @@
   "month": "2025-12",
   "monthly": [
     {
-      "username": "alvin-dennis",
-      "commits": 0,
-      "prs_opened": 8,
-      "prs_merged": 8,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Alvin Dennis"
-    },
-    {
       "username": "awindsr",
       "commits": 0,
-      "prs_opened": 6,
-      "prs_merged": 6,
+      "prs_opened": 15,
+      "prs_merged": 14,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Awindsr"
     },
     {
+      "username": "alvin-dennis",
+      "commits": 0,
+      "prs_opened": 10,
+      "prs_merged": 9,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Alvin Dennis"
+    },
+    {
       "username": "Amith-Abey-Stephen",
       "commits": 0,
-      "prs_opened": 3,
-      "prs_merged": 3,
+      "prs_opened": 7,
+      "prs_merged": 6,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Amith Abey Stephen"
@@ -74,6 +74,15 @@
       "displayname": "Salahudheen Thajudheen"
     },
     {
+      "username": "renovate[bot]",
+      "commits": 0,
+      "prs_opened": 2,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "renovate[bot]"
+    },
+    {
       "username": "nanda-kshr",
       "commits": 0,
       "prs_opened": 1,
@@ -81,15 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Nandakishore P"
-    },
-    {
-      "username": "joyanna27",
-      "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "joyanna27"
     }
   ],
   "overall": [
