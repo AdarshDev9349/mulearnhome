@@ -2,6 +2,15 @@
   "month": "2026-01",
   "monthly": [
     {
+      "username": "awindsr",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Awindsr"
+    },
+    {
       "username": "Arya3077",
       "commits": 0,
       "prs_opened": 1,
@@ -11,85 +20,76 @@
       "displayname": "Arya Shibu Dhanya"
     },
     {
-      "username": "AswinAsok",
+      "username": "Dany-Koshy-P",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Aswin Asok"
+      "displayname": "Dany-Koshy-P"
     },
     {
-      "username": "Jenin82",
+      "username": "solvz",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Jenin Joseph"
+      "displayname": "Krishna Rajeev"
     },
     {
-      "username": "Jovit-Mathew236",
+      "username": "MuhdSulthan",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Jovit Mathew"
+      "displayname": "Muhammad Sulthan K M"
     },
     {
-      "username": "notS0LD13R",
+      "username": "vaishnav4281",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Joel T Vadakekalam"
+      "displayname": "VAISHNAV K"
     },
     {
-      "username": "awindsr",
+      "username": "bhavanahh",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Awindsr"
+      "displayname": "Bhavana B"
     },
     {
-      "username": "Basith-P",
+      "username": "afzal-n",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Basith P"
+      "displayname": "Afzal N"
     },
     {
-      "username": "Alan0602",
+      "username": "ashfinashfi",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Alan K Anil"
+      "displayname": "ashfin prem"
     },
     {
-      "username": "VinuBalagopalAP",
+      "username": "alvin-dennis",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Vinu Balagopal A P"
-    },
-    {
-      "username": "viraka",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "M Viraj Prabhu"
+      "displayname": "Alvin Dennis"
     }
   ],
   "overall": [
