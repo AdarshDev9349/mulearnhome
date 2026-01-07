@@ -22,8 +22,8 @@
     {
       "username": "sachin-raj-m",
       "commits": 0,
-      "prs_opened": 3,
-      "prs_merged": 3,
+      "prs_opened": 4,
+      "prs_merged": 4,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Sachin Raj"
@@ -45,6 +45,15 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Anerudh M K"
+    },
+    {
+      "username": "alsuhails5-ui",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "alsuhails5-ui"
     },
     {
       "username": "Alienwalker-6",
@@ -74,22 +83,13 @@
       "displayname": "Arya Shibu Dhanya"
     },
     {
-      "username": "alsuhails5-ui",
+      "username": "aaronrthomas",
       "commits": 0,
       "prs_opened": 1,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "alsuhails5-ui"
-    },
-    {
-      "username": "adnankattekaden",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Adnan Kattekaden"
+      "displayname": "Aaronrthomas"
     }
   ],
   "overall": [
@@ -176,7 +176,7 @@
     },
     {
       "username": "awindsr",
-      "commits": 613,
+      "commits": 616,
       "prs_opened": 168,
       "prs_merged": 162,
       "issues_opened": 16,
