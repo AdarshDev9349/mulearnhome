@@ -2,6 +2,15 @@
   "month": "2026-01",
   "monthly": [
     {
+      "username": "sachin-raj-m",
+      "commits": 0,
+      "prs_opened": 23,
+      "prs_merged": 23,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Sachin Raj"
+    },
+    {
       "username": "awindsr",
       "commits": 0,
       "prs_opened": 7,
@@ -18,15 +27,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Nandakishore P"
-    },
-    {
-      "username": "sachin-raj-m",
-      "commits": 0,
-      "prs_opened": 4,
-      "prs_merged": 4,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Sachin Raj"
     },
     {
       "username": "Amith-Abey-Stephen",
@@ -176,7 +176,7 @@
     },
     {
       "username": "awindsr",
-      "commits": 616,
+      "commits": 643,
       "prs_opened": 168,
       "prs_merged": 162,
       "issues_opened": 16,
