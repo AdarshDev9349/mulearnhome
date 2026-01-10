@@ -11,6 +11,15 @@
       "displayname": "Sachin Raj"
     },
     {
+      "username": "nanda-kshr",
+      "commits": 0,
+      "prs_opened": 8,
+      "prs_merged": 8,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Nandakishore P"
+    },
+    {
       "username": "awindsr",
       "commits": 0,
       "prs_opened": 7,
@@ -18,15 +27,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Awindsr"
-    },
-    {
-      "username": "nanda-kshr",
-      "commits": 0,
-      "prs_opened": 7,
-      "prs_merged": 7,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Nandakishore P"
     },
     {
       "username": "Amith-Abey-Stephen",
@@ -71,7 +71,7 @@
       "prs_merged": 1,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "ALIEN"
+      "displayname": "PRANAV M K"
     },
     {
       "username": "octavia47",
@@ -83,13 +83,13 @@
       "displayname": "nasih"
     },
     {
-      "username": "mdmidlaj47-cloud",
+      "username": "Copilot",
       "commits": 0,
       "prs_opened": 1,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "mdmidlaj47-cloud"
+      "displayname": "Copilot"
     }
   ],
   "overall": [
