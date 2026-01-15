@@ -13,8 +13,8 @@
     {
       "username": "awindsr",
       "commits": 0,
-      "prs_opened": 23,
-      "prs_merged": 22,
+      "prs_opened": 28,
+      "prs_merged": 28,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Awindsr"
@@ -22,7 +22,7 @@
     {
       "username": "nanda-kshr",
       "commits": 0,
-      "prs_opened": 15,
+      "prs_opened": 16,
       "prs_merged": 14,
       "issues_opened": 0,
       "issues_closed": 0,
@@ -47,33 +47,6 @@
       "displayname": "Amith Abey Stephen"
     },
     {
-      "username": "nashnsulthan",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Nash N Sulthan"
-    },
-    {
-      "username": "aaronrthomas",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Aaronrthomas"
-    },
-    {
-      "username": "Copilot",
-      "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Copilot"
-    },
-    {
       "username": "EzioAuditore-daFirenze",
       "commits": 0,
       "prs_opened": 1,
@@ -83,6 +56,15 @@
       "displayname": "Anerudh M K"
     },
     {
+      "username": "Sreya-STP",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Sreya-STP"
+    },
+    {
       "username": "AdwaithSR-hub",
       "commits": 0,
       "prs_opened": 2,
@@ -90,6 +72,24 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "adwaithsr-2@mulearn"
+    },
+    {
+      "username": "mdmidlaj47-cloud",
+      "commits": 0,
+      "prs_opened": 2,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "mdmidlaj47-cloud"
+    },
+    {
+      "username": "alsuhails5-ui",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "alsuhails5-ui"
     }
   ],
   "overall": [
@@ -157,6 +157,15 @@
       "displayname": "Vishakh Abhayan"
     },
     {
+      "username": "awindsr",
+      "commits": 691,
+      "prs_opened": 189,
+      "prs_merged": 183,
+      "issues_opened": 16,
+      "issues_closed": 16,
+      "displayname": "Awindsr"
+    },
+    {
       "username": "jelanmathewjames",
       "commits": 547,
       "prs_opened": 265,
@@ -164,15 +173,6 @@
       "issues_opened": 1,
       "issues_closed": 0,
       "displayname": "Jelan Mathew James"
-    },
-    {
-      "username": "awindsr",
-      "commits": 688,
-      "prs_opened": 184,
-      "prs_merged": 177,
-      "issues_opened": 16,
-      "issues_closed": 9,
-      "displayname": "Awindsr"
     },
     {
       "username": "aswanthabam",
