@@ -22,8 +22,8 @@
     {
       "username": "nanda-kshr",
       "commits": 0,
-      "prs_opened": 16,
-      "prs_merged": 14,
+      "prs_opened": 22,
+      "prs_merged": 20,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Nandakishore P"
@@ -36,6 +36,24 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Arya Shibu Dhanya"
+    },
+    {
+      "username": "nashnsulthan",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Nash N Sulthan"
+    },
+    {
+      "username": "Copilot",
+      "commits": 0,
+      "prs_opened": 2,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Copilot"
     },
     {
       "username": "Amith-Abey-Stephen",
@@ -72,24 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "adwaithsr-2@mulearn"
-    },
-    {
-      "username": "mdmidlaj47-cloud",
-      "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "mdmidlaj47-cloud"
-    },
-    {
-      "username": "alsuhails5-ui",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "alsuhails5-ui"
     }
   ],
   "overall": [
@@ -158,7 +158,7 @@
     },
     {
       "username": "awindsr",
-      "commits": 691,
+      "commits": 695,
       "prs_opened": 189,
       "prs_merged": 183,
       "issues_opened": 16,
