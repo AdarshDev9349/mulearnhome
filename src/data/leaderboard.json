@@ -23,7 +23,7 @@
       "username": "nanda-kshr",
       "commits": 0,
       "prs_opened": 23,
-      "prs_merged": 20,
+      "prs_merged": 21,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Nandakishore P"
@@ -32,7 +32,7 @@
       "username": "Arya3077",
       "commits": 0,
       "prs_opened": 2,
-      "prs_merged": 1,
+      "prs_merged": 2,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Arya Shibu Dhanya"
@@ -40,8 +40,8 @@
     {
       "username": "alvin-dennis",
       "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
+      "prs_opened": 2,
+      "prs_merged": 2,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
@@ -49,11 +49,20 @@
     {
       "username": "Amith-Abey-Stephen",
       "commits": 0,
-      "prs_opened": 0,
+      "prs_opened": 1,
       "prs_merged": 0,
       "issues_opened": 1,
       "issues_closed": 1,
       "displayname": "Amith Abey Stephen"
+    },
+    {
+      "username": "Copilot",
+      "commits": 0,
+      "prs_opened": 3,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Copilot"
     },
     {
       "username": "nashnsulthan",
@@ -72,15 +81,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Aaronrthomas"
-    },
-    {
-      "username": "Copilot",
-      "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Copilot"
     },
     {
       "username": "EzioAuditore-daFirenze",
@@ -158,7 +158,7 @@
     },
     {
       "username": "awindsr",
-      "commits": 697,
+      "commits": 701,
       "prs_opened": 190,
       "prs_merged": 183,
       "issues_opened": 16,
