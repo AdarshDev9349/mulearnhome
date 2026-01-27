@@ -22,8 +22,8 @@
     {
       "username": "nanda-kshr",
       "commits": 0,
-      "prs_opened": 23,
-      "prs_merged": 21,
+      "prs_opened": 24,
+      "prs_merged": 22,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Nandakishore P"
@@ -65,31 +65,31 @@
       "displayname": "Copilot"
     },
     {
-      "username": "EzioAuditore-daFirenze",
+      "username": "nashnsulthan",
       "commits": 0,
       "prs_opened": 1,
       "prs_merged": 1,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Anerudh M K"
+      "displayname": "Nash N Sulthan"
     },
     {
-      "username": "Sreya-STP",
+      "username": "DevWithPranav",
       "commits": 0,
       "prs_opened": 1,
       "prs_merged": 1,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Sreya-STP"
+      "displayname": "Pranav P"
     },
     {
-      "username": "AdwaithSR-hub",
+      "username": "Jibin-Gigi",
       "commits": 0,
       "prs_opened": 2,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "adwaithsr-2@mulearn"
+      "displayname": "Jibin Gigi"
     }
   ],
   "overall": [
@@ -149,7 +149,7 @@
     },
     {
       "username": "awindsr",
-      "commits": 723,
+      "commits": 727,
       "prs_opened": 199,
       "prs_merged": 193,
       "issues_opened": 16,
