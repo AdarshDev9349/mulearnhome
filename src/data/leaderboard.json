@@ -74,22 +74,22 @@
       "displayname": "Nash N Sulthan"
     },
     {
-      "username": "DevWithPranav",
+      "username": "aaronrthomas",
       "commits": 0,
       "prs_opened": 1,
       "prs_merged": 1,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Pranav P"
+      "displayname": "Aaronrthomas"
     },
     {
-      "username": "Jibin-Gigi",
+      "username": "EzioAuditore-daFirenze",
       "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Jibin Gigi"
+      "displayname": "Anerudh M K"
     }
   ],
   "overall": [
@@ -149,7 +149,7 @@
     },
     {
       "username": "awindsr",
-      "commits": 733,
+      "commits": 734,
       "prs_opened": 202,
       "prs_merged": 196,
       "issues_opened": 16,
