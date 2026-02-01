@@ -1,95 +1,95 @@
 {
-  "month": "2026-01",
+  "month": "2026-02",
   "monthly": [
-    {
-      "username": "awindsr",
-      "commits": 0,
-      "prs_opened": 44,
-      "prs_merged": 44,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Awindsr"
-    },
-    {
-      "username": "sachin-raj-m",
-      "commits": 0,
-      "prs_opened": 31,
-      "prs_merged": 31,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Sachin Raj"
-    },
-    {
-      "username": "nanda-kshr",
-      "commits": 0,
-      "prs_opened": 24,
-      "prs_merged": 22,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Nandakishore P"
-    },
-    {
-      "username": "alvin-dennis",
-      "commits": 0,
-      "prs_opened": 4,
-      "prs_merged": 3,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Alvin Dennis"
-    },
-    {
-      "username": "a1eena59",
-      "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 2,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "a1eena59"
-    },
-    {
-      "username": "Amith-Abey-Stephen",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
-      "issues_opened": 1,
-      "issues_closed": 1,
-      "displayname": "Amith Abey Stephen"
-    },
-    {
-      "username": "Arya3077",
-      "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 2,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Arya Shibu Dhanya"
-    },
-    {
-      "username": "Copilot",
-      "commits": 0,
-      "prs_opened": 3,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Copilot"
-    },
     {
       "username": "rubyaj24",
       "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
+      "prs_opened": 0,
+      "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "AMALJITH"
     },
     {
-      "username": "nashnsulthan",
+      "username": "sachin-raj-m",
       "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
+      "prs_opened": 0,
+      "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Nash N Sulthan"
+      "displayname": "Sachin Raj"
+    },
+    {
+      "username": "a1eena59",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "a1eena59"
+    },
+    {
+      "username": "vishakh-abhayan",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Vishakh Abhayan"
+    },
+    {
+      "username": "alvin-dennis",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Alvin Dennis"
+    },
+    {
+      "username": "Kochouseph26John",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Kochouseph John"
+    },
+    {
+      "username": "deepusnath",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Deepu S Nath"
+    },
+    {
+      "username": "adi-code22",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "ADITYAKRISHNAN"
+    },
+    {
+      "username": "vaishakhRaveendran",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Vaishakh Raveendran"
+    },
+    {
+      "username": "webstaxx",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "WebStacks"
     }
   ],
   "overall": [
@@ -184,5 +184,5 @@
       "displayname": "Aswanth Vc"
     }
   ],
-  "date": "January 2026"
+  "date": "February 2026"
 }
