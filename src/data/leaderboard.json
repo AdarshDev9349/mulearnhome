@@ -2,22 +2,31 @@
   "month": "2026-02",
   "monthly": [
     {
+      "username": "sachin-raj-m",
+      "commits": 0,
+      "prs_opened": 6,
+      "prs_merged": 6,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Sachin Raj"
+    },
+    {
       "username": "rubyaj24",
       "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
+      "prs_opened": 3,
+      "prs_merged": 3,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "AMALJITH"
     },
     {
-      "username": "sachin-raj-m",
+      "username": "anfastech",
       "commits": 0,
-      "prs_opened": 0,
+      "prs_opened": 1,
       "prs_merged": 0,
-      "issues_opened": 0,
+      "issues_opened": 1,
       "issues_closed": 0,
-      "displayname": "Sachin Raj"
+      "displayname": "Mohammed Anfas K P"
     },
     {
       "username": "a1eena59",
@@ -81,15 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Vaishakh Raveendran"
-    },
-    {
-      "username": "webstaxx",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "WebStacks"
     }
   ],
   "overall": [
