@@ -4,8 +4,8 @@
     {
       "username": "sachin-raj-m",
       "commits": 0,
-      "prs_opened": 6,
-      "prs_merged": 6,
+      "prs_opened": 17,
+      "prs_merged": 17,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Sachin Raj"
@@ -13,8 +13,8 @@
     {
       "username": "rubyaj24",
       "commits": 0,
-      "prs_opened": 3,
-      "prs_merged": 3,
+      "prs_opened": 7,
+      "prs_merged": 7,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "AMALJITH"
@@ -25,8 +25,26 @@
       "prs_opened": 1,
       "prs_merged": 0,
       "issues_opened": 1,
-      "issues_closed": 0,
+      "issues_closed": 1,
       "displayname": "Mohammed Anfas K P"
+    },
+    {
+      "username": "alvin-dennis",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Alvin Dennis"
+    },
+    {
+      "username": "awindsr",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Awindsr"
     },
     {
       "username": "a1eena59",
@@ -38,58 +56,40 @@
       "displayname": "a1eena59"
     },
     {
-      "username": "vishakh-abhayan",
+      "username": "Amith-Abey-Stephen",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Vishakh Abhayan"
+      "displayname": "Amith Abey Stephen"
     },
     {
-      "username": "alvin-dennis",
+      "username": "github-actions[bot]",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Alvin Dennis"
+      "displayname": "github-actions[bot]"
     },
     {
-      "username": "Kochouseph26John",
+      "username": "AdarshDev9349",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Kochouseph John"
+      "displayname": "Adarsh Dev"
     },
     {
-      "username": "deepusnath",
+      "username": "aflaha01",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Deepu S Nath"
-    },
-    {
-      "username": "adi-code22",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "ADITYAKRISHNAN"
-    },
-    {
-      "username": "vaishakhRaveendran",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Vaishakh Raveendran"
+      "displayname": "aflahaa"
     }
   ],
   "overall": [
@@ -149,7 +149,7 @@
     },
     {
       "username": "awindsr",
-      "commits": 736,
+      "commits": 753,
       "prs_opened": 205,
       "prs_merged": 199,
       "issues_opened": 16,
