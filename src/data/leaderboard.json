@@ -13,8 +13,8 @@
     {
       "username": "rubyaj24",
       "commits": 0,
-      "prs_opened": 7,
-      "prs_merged": 7,
+      "prs_opened": 8,
+      "prs_merged": 8,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "AMALJITH"
@@ -29,6 +29,15 @@
       "displayname": "Mohammed Anfas K P"
     },
     {
+      "username": "awindsr",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Awindsr"
+    },
+    {
       "username": "alvin-dennis",
       "commits": 0,
       "prs_opened": 1,
@@ -36,24 +45,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
-    },
-    {
-      "username": "awindsr",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Awindsr"
-    },
-    {
-      "username": "a1eena59",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "a1eena59"
     },
     {
       "username": "Amith-Abey-Stephen",
@@ -90,6 +81,15 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "aflahaa"
+    },
+    {
+      "username": "abin-karukappallil",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Abin Thomas"
     }
   ],
   "overall": [
@@ -149,9 +149,9 @@
     },
     {
       "username": "awindsr",
-      "commits": 753,
-      "prs_opened": 205,
-      "prs_merged": 199,
+      "commits": 754,
+      "prs_opened": 206,
+      "prs_merged": 200,
       "issues_opened": 16,
       "issues_closed": 16,
       "displayname": "Awindsr"
