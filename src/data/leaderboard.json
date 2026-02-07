@@ -29,15 +29,6 @@
       "displayname": "Awindsr"
     },
     {
-      "username": "anfastech",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 1,
-      "issues_closed": 1,
-      "displayname": "Mohammed Anfas K P"
-    },
-    {
       "username": "alvin-dennis",
       "commits": 0,
       "prs_opened": 2,
@@ -45,6 +36,15 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
+    },
+    {
+      "username": "anfastech",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "issues_opened": 1,
+      "issues_closed": 1,
+      "displayname": "Mohammed Anfas K P"
     },
     {
       "username": "DevWithPranav",
@@ -58,7 +58,7 @@
     {
       "username": "Devika123098",
       "commits": 0,
-      "prs_opened": 1,
+      "prs_opened": 2,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
@@ -74,15 +74,6 @@
       "displayname": "athul-joseph-aj"
     },
     {
-      "username": "a1eena59",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "a1eena59"
-    },
-    {
       "username": "Amith-Abey-Stephen",
       "commits": 0,
       "prs_opened": 0,
@@ -90,6 +81,15 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Amith Abey Stephen"
+    },
+    {
+      "username": "github-actions[bot]",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "github-actions[bot]"
     }
   ],
   "overall": [
@@ -149,7 +149,7 @@
     },
     {
       "username": "awindsr",
-      "commits": 754,
+      "commits": 758,
       "prs_opened": 206,
       "prs_merged": 200,
       "issues_opened": 20,
