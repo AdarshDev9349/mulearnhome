@@ -4,8 +4,8 @@
     {
       "username": "rubyaj24",
       "commits": 0,
-      "prs_opened": 21,
-      "prs_merged": 21,
+      "prs_opened": 23,
+      "prs_merged": 23,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "AMALJITH"
@@ -22,8 +22,8 @@
     {
       "username": "awindsr",
       "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 2,
+      "prs_opened": 7,
+      "prs_merged": 7,
       "issues_opened": 6,
       "issues_closed": 4,
       "displayname": "Awindsr"
@@ -139,6 +139,15 @@
       "displayname": "Muhammed Zafar "
     },
     {
+      "username": "awindsr",
+      "commits": 853,
+      "prs_opened": 212,
+      "prs_merged": 206,
+      "issues_opened": 22,
+      "issues_closed": 20,
+      "displayname": "Awindsr"
+    },
+    {
       "username": "bijomathewjose",
       "commits": 785,
       "prs_opened": 261,
@@ -146,15 +155,6 @@
       "issues_opened": 16,
       "issues_closed": 16,
       "displayname": "Bijo Mathew Jose"
-    },
-    {
-      "username": "awindsr",
-      "commits": 829,
-      "prs_opened": 207,
-      "prs_merged": 201,
-      "issues_opened": 22,
-      "issues_closed": 20,
-      "displayname": "Awindsr"
     },
     {
       "username": "vishakh-abhayan",
