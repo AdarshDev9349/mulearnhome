@@ -22,11 +22,20 @@
     {
       "username": "awindsr",
       "commits": 0,
-      "prs_opened": 10,
-      "prs_merged": 10,
-      "issues_opened": 6,
+      "prs_opened": 5,
+      "prs_merged": 5,
+      "issues_opened": 13,
       "issues_closed": 4,
       "displayname": "Awindsr"
+    },
+    {
+      "username": "alvin-dennis",
+      "commits": 0,
+      "prs_opened": 9,
+      "prs_merged": 8,
+      "issues_opened": 1,
+      "issues_closed": 0,
+      "displayname": "Alvin Dennis"
     },
     {
       "username": "Amith-Abey-Stephen",
@@ -36,15 +45,6 @@
       "issues_opened": 3,
       "issues_closed": 3,
       "displayname": "Amith Abey Stephen"
-    },
-    {
-      "username": "alvin-dennis",
-      "commits": 0,
-      "prs_opened": 7,
-      "prs_merged": 6,
-      "issues_opened": 1,
-      "issues_closed": 0,
-      "displayname": "Alvin Dennis"
     },
     {
       "username": "DevWithPranav",
@@ -65,15 +65,6 @@
       "displayname": "Arya Shibu Dhanya"
     },
     {
-      "username": "erzer12",
-      "commits": 0,
-      "prs_opened": 3,
-      "prs_merged": 1,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Harshil P"
-    },
-    {
       "username": "Akshayvs-Tech",
       "commits": 0,
       "prs_opened": 2,
@@ -90,6 +81,15 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Devika Dileep"
+    },
+    {
+      "username": "erzer12",
+      "commits": 0,
+      "prs_opened": 3,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Harshil P"
     }
   ],
   "overall": [
@@ -139,15 +139,6 @@
       "displayname": "Muhammed Zafar "
     },
     {
-      "username": "awindsr",
-      "commits": 859,
-      "prs_opened": 215,
-      "prs_merged": 209,
-      "issues_opened": 22,
-      "issues_closed": 20,
-      "displayname": "Awindsr"
-    },
-    {
       "username": "bijomathewjose",
       "commits": 785,
       "prs_opened": 261,
@@ -155,6 +146,15 @@
       "issues_opened": 16,
       "issues_closed": 16,
       "displayname": "Bijo Mathew Jose"
+    },
+    {
+      "username": "awindsr",
+      "commits": 757,
+      "prs_opened": 210,
+      "prs_merged": 204,
+      "issues_opened": 29,
+      "issues_closed": 20,
+      "displayname": "Awindsr"
     },
     {
       "username": "vishakh-abhayan",
