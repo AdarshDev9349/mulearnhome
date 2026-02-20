@@ -22,17 +22,17 @@
     {
       "username": "awindsr",
       "commits": 0,
-      "prs_opened": 5,
-      "prs_merged": 5,
-      "issues_opened": 13,
-      "issues_closed": 4,
+      "prs_opened": 7,
+      "prs_merged": 7,
+      "issues_opened": 12,
+      "issues_closed": 5,
       "displayname": "Awindsr"
     },
     {
       "username": "alvin-dennis",
       "commits": 0,
-      "prs_opened": 9,
-      "prs_merged": 8,
+      "prs_opened": 13,
+      "prs_merged": 11,
       "issues_opened": 1,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
@@ -45,6 +45,24 @@
       "issues_opened": 3,
       "issues_closed": 3,
       "displayname": "Amith Abey Stephen"
+    },
+    {
+      "username": "Devika123098",
+      "commits": 0,
+      "prs_opened": 4,
+      "prs_merged": 3,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Devika Dileep"
+    },
+    {
+      "username": "vedhavk",
+      "commits": 0,
+      "prs_opened": 5,
+      "prs_merged": 2,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Vedha"
     },
     {
       "username": "DevWithPranav",
@@ -65,28 +83,10 @@
       "displayname": "Arya Shibu Dhanya"
     },
     {
-      "username": "Akshayvs-Tech",
-      "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 2,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Akshay v s"
-    },
-    {
-      "username": "Devika123098",
-      "commits": 0,
-      "prs_opened": 3,
-      "prs_merged": 1,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Devika Dileep"
-    },
-    {
       "username": "erzer12",
       "commits": 0,
       "prs_opened": 3,
-      "prs_merged": 1,
+      "prs_merged": 2,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Harshil P"
@@ -149,11 +149,11 @@
     },
     {
       "username": "awindsr",
-      "commits": 757,
-      "prs_opened": 210,
-      "prs_merged": 204,
-      "issues_opened": 29,
-      "issues_closed": 20,
+      "commits": 765,
+      "prs_opened": 212,
+      "prs_merged": 206,
+      "issues_opened": 28,
+      "issues_closed": 21,
       "displayname": "Awindsr"
     },
     {
