@@ -22,7 +22,7 @@
     {
       "username": "awindsr",
       "commits": 0,
-      "prs_opened": 7,
+      "prs_opened": 8,
       "prs_merged": 7,
       "issues_opened": 12,
       "issues_closed": 5,
@@ -31,8 +31,8 @@
     {
       "username": "alvin-dennis",
       "commits": 0,
-      "prs_opened": 13,
-      "prs_merged": 11,
+      "prs_opened": 14,
+      "prs_merged": 12,
       "issues_opened": 1,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
@@ -47,6 +47,15 @@
       "displayname": "Amith Abey Stephen"
     },
     {
+      "username": "vedhavk",
+      "commits": 0,
+      "prs_opened": 5,
+      "prs_merged": 3,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Vedha"
+    },
+    {
       "username": "Devika123098",
       "commits": 0,
       "prs_opened": 4,
@@ -54,15 +63,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Devika Dileep"
-    },
-    {
-      "username": "vedhavk",
-      "commits": 0,
-      "prs_opened": 5,
-      "prs_merged": 2,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Vedha"
     },
     {
       "username": "DevWithPranav",
@@ -74,22 +74,22 @@
       "displayname": "Pranav P"
     },
     {
-      "username": "Arya3077",
+      "username": "erzer12",
+      "commits": 0,
+      "prs_opened": 4,
+      "prs_merged": 2,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Harshil P"
+    },
+    {
+      "username": "nanda-kshr",
       "commits": 0,
       "prs_opened": 3,
       "prs_merged": 3,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Arya Shibu Dhanya"
-    },
-    {
-      "username": "erzer12",
-      "commits": 0,
-      "prs_opened": 3,
-      "prs_merged": 2,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Harshil P"
+      "displayname": "Nandakishore P"
     }
   ],
   "overall": [
@@ -149,8 +149,8 @@
     },
     {
       "username": "awindsr",
-      "commits": 765,
-      "prs_opened": 212,
+      "commits": 774,
+      "prs_opened": 213,
       "prs_merged": 206,
       "issues_opened": 28,
       "issues_closed": 21,
