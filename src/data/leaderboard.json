@@ -38,6 +38,15 @@
       "displayname": "Amith Abey Stephen"
     },
     {
+      "username": "febin-d",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Febin Daniel"
+    },
+    {
       "username": "Arya-John",
       "commits": 0,
       "prs_opened": 1,
@@ -81,15 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "MUHSIN P"
-    },
-    {
-      "username": "febin-d",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Febin Daniel"
     }
   ],
   "overall": [
@@ -144,7 +144,7 @@
       "prs_opened": 227,
       "prs_merged": 221,
       "issues_opened": 38,
-      "issues_closed": 27,
+      "issues_closed": 29,
       "displayname": "Awindsr"
     },
     {
