@@ -4,8 +4,8 @@
     {
       "username": "awindsr",
       "commits": 0,
-      "prs_opened": 7,
-      "prs_merged": 7,
+      "prs_opened": 9,
+      "prs_merged": 9,
       "issues_opened": 3,
       "issues_closed": 0,
       "displayname": "Awindsr"
@@ -40,7 +40,7 @@
     {
       "username": "febin-d",
       "commits": 0,
-      "prs_opened": 1,
+      "prs_opened": 2,
       "prs_merged": 1,
       "issues_opened": 0,
       "issues_closed": 0,
@@ -140,9 +140,9 @@
     },
     {
       "username": "awindsr",
-      "commits": 823,
-      "prs_opened": 227,
-      "prs_merged": 221,
+      "commits": 824,
+      "prs_opened": 229,
+      "prs_merged": 223,
       "issues_opened": 38,
       "issues_closed": 29,
       "displayname": "Awindsr"
