@@ -4,8 +4,8 @@
     {
       "username": "sachin-raj-m",
       "commits": 0,
-      "prs_opened": 15,
-      "prs_merged": 15,
+      "prs_opened": 16,
+      "prs_merged": 16,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Sachin Raj"
@@ -18,6 +18,15 @@
       "issues_opened": 3,
       "issues_closed": 0,
       "displayname": "Awindsr"
+    },
+    {
+      "username": "DevWithPranav",
+      "commits": 0,
+      "prs_opened": 8,
+      "prs_merged": 8,
+      "issues_opened": 2,
+      "issues_closed": 0,
+      "displayname": "Pranav P"
     },
     {
       "username": "ShreyaLbs",
@@ -36,15 +45,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
-    },
-    {
-      "username": "DevWithPranav",
-      "commits": 0,
-      "prs_opened": 6,
-      "prs_merged": 6,
-      "issues_opened": 2,
-      "issues_closed": 0,
-      "displayname": "Pranav P"
     },
     {
       "username": "aishwaryanair440",
@@ -130,6 +130,15 @@
       "displayname": "Jovit Mathew"
     },
     {
+      "username": "awindsr",
+      "commits": 837,
+      "prs_opened": 229,
+      "prs_merged": 223,
+      "issues_opened": 38,
+      "issues_closed": 33,
+      "displayname": "Awindsr"
+    },
+    {
       "username": "MZaFaRM",
       "commits": 753,
       "prs_opened": 292,
@@ -137,15 +146,6 @@
       "issues_opened": 12,
       "issues_closed": 11,
       "displayname": "Muhammed Zafar "
-    },
-    {
-      "username": "awindsr",
-      "commits": 832,
-      "prs_opened": 229,
-      "prs_merged": 223,
-      "issues_opened": 38,
-      "issues_closed": 30,
-      "displayname": "Awindsr"
     },
     {
       "username": "bijomathewjose",
