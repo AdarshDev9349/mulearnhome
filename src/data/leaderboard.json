@@ -11,6 +11,15 @@
       "displayname": "Sachin Raj"
     },
     {
+      "username": "DevWithPranav",
+      "commits": 0,
+      "prs_opened": 10,
+      "prs_merged": 10,
+      "issues_opened": 2,
+      "issues_closed": 0,
+      "displayname": "Pranav P"
+    },
+    {
       "username": "awindsr",
       "commits": 0,
       "prs_opened": 9,
@@ -18,15 +27,6 @@
       "issues_opened": 3,
       "issues_closed": 0,
       "displayname": "Awindsr"
-    },
-    {
-      "username": "DevWithPranav",
-      "commits": 0,
-      "prs_opened": 9,
-      "prs_merged": 9,
-      "issues_opened": 2,
-      "issues_closed": 0,
-      "displayname": "Pranav P"
     },
     {
       "username": "ShreyaLbs",
@@ -56,6 +56,15 @@
       "displayname": "AISHWARYA A NAIR"
     },
     {
+      "username": "GokulShaji2005",
+      "commits": 0,
+      "prs_opened": 4,
+      "prs_merged": 4,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Gokul Shaji"
+    },
+    {
       "username": "AdhiNarayan206",
       "commits": 0,
       "prs_opened": 0,
@@ -63,15 +72,6 @@
       "issues_opened": 8,
       "issues_closed": 0,
       "displayname": "ADHI NARAYAN"
-    },
-    {
-      "username": "GokulShaji2005",
-      "commits": 0,
-      "prs_opened": 4,
-      "prs_merged": 3,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Gokul Shaji"
     },
     {
       "username": "joshnajojo12",
