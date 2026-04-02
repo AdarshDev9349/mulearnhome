@@ -2,6 +2,15 @@
   "month": "2026-04",
   "monthly": [
     {
+      "username": "alvin-dennis",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Alvin Dennis"
+    },
+    {
       "username": "KAMAL-KRISHNA-00",
       "commits": 0,
       "prs_opened": 1,
@@ -20,13 +29,22 @@
       "displayname": "Angelina Jolly"
     },
     {
-      "username": "alvin-dennis",
+      "username": "RoseMary007",
       "commits": 0,
-      "prs_opened": 0,
+      "prs_opened": 1,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Alvin Dennis"
+      "displayname": "Rose Mary Joe"
+    },
+    {
+      "username": "Salvin-Sebastian",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Salvin Sebastian"
     },
     {
       "username": "sachin-raj-m",
@@ -72,24 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Adarsh Dev"
-    },
-    {
-      "username": "aflaha01",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "aflahaa"
-    },
-    {
-      "username": "tina-cloud-app[bot]",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "tina-cloud-app[bot]"
     }
   ],
   "overall": [
