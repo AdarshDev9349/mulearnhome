@@ -4,8 +4,8 @@
     {
       "username": "DevWithPranav",
       "commits": 0,
-      "prs_opened": 11,
-      "prs_merged": 11,
+      "prs_opened": 17,
+      "prs_merged": 17,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Pranav P"
@@ -22,7 +22,7 @@
     {
       "username": "alvin-dennis",
       "commits": 0,
-      "prs_opened": 2,
+      "prs_opened": 3,
       "prs_merged": 2,
       "issues_opened": 0,
       "issues_closed": 0,
@@ -36,6 +36,42 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Salvin Sebastian"
+    },
+    {
+      "username": "shaderone",
+      "commits": 0,
+      "prs_opened": 2,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Sharon Shaji"
+    },
+    {
+      "username": "Devika123098",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Devika Dileep"
+    },
+    {
+      "username": "astropebo",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "astropebo"
+    },
+    {
+      "username": "erzer12",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Harshil P"
     },
     {
       "username": "KAMAL-KRISHNA-00",
@@ -54,42 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Angelina Jolly"
-    },
-    {
-      "username": "arya-884884",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "ARYA NANDA"
-    },
-    {
-      "username": "harinandanamohanan6-cloud",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "harinandanamohanan6-cloud"
-    },
-    {
-      "username": "minna-mk",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Ameena Mk"
-    },
-    {
-      "username": "Vinayapriya",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Vinayapriya  C C"
     }
   ],
   "overall": [
