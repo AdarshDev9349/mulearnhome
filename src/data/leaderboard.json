@@ -4,8 +4,8 @@
     {
       "username": "DevWithPranav",
       "commits": 0,
-      "prs_opened": 17,
-      "prs_merged": 17,
+      "prs_opened": 30,
+      "prs_merged": 30,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Pranav P"
@@ -13,7 +13,7 @@
     {
       "username": "Amith-Abey-Stephen",
       "commits": 0,
-      "prs_opened": 5,
+      "prs_opened": 7,
       "prs_merged": 4,
       "issues_opened": 0,
       "issues_closed": 0,
@@ -22,20 +22,38 @@
     {
       "username": "alvin-dennis",
       "commits": 0,
-      "prs_opened": 3,
-      "prs_merged": 2,
+      "prs_opened": 4,
+      "prs_merged": 4,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
     },
     {
+      "username": "erzer12",
+      "commits": 0,
+      "prs_opened": 3,
+      "prs_merged": 3,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Harshil P"
+    },
+    {
       "username": "Salvin-Sebastian",
       "commits": 0,
       "prs_opened": 4,
-      "prs_merged": 0,
+      "prs_merged": 1,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Salvin Sebastian"
+    },
+    {
+      "username": "Nayadrika787",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Nayana_Sen"
     },
     {
       "username": "shaderone",
@@ -56,40 +74,22 @@
       "displayname": "Devika Dileep"
     },
     {
-      "username": "astropebo",
+      "username": "sinan404",
       "commits": 0,
       "prs_opened": 1,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "astropebo"
+      "displayname": "SINAN M"
     },
     {
-      "username": "erzer12",
+      "username": "Anudeepth",
       "commits": 0,
       "prs_opened": 1,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Harshil P"
-    },
-    {
-      "username": "KAMAL-KRISHNA-00",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Kamal Krishna"
-    },
-    {
-      "username": "AngelinaJolly2005",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Angelina Jolly"
+      "displayname": "Anudeepth"
     }
   ],
   "overall": [
@@ -131,7 +131,7 @@
     },
     {
       "username": "awindsr",
-      "commits": 859,
+      "commits": 866,
       "prs_opened": 230,
       "prs_merged": 224,
       "issues_opened": 38,
