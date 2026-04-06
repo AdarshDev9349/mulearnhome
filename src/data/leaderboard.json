@@ -22,8 +22,8 @@
     {
       "username": "alvin-dennis",
       "commits": 0,
-      "prs_opened": 4,
-      "prs_merged": 4,
+      "prs_opened": 5,
+      "prs_merged": 5,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
@@ -56,6 +56,15 @@
       "displayname": "Nayana_Sen"
     },
     {
+      "username": "Vinayapriya",
+      "commits": 0,
+      "prs_opened": 2,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Vinayapriya  C C"
+    },
+    {
       "username": "shaderone",
       "commits": 0,
       "prs_opened": 2,
@@ -81,15 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "SINAN M"
-    },
-    {
-      "username": "Anudeepth",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Anudeepth"
     }
   ],
   "overall": [
@@ -131,7 +131,7 @@
     },
     {
       "username": "awindsr",
-      "commits": 866,
+      "commits": 869,
       "prs_opened": 230,
       "prs_merged": 224,
       "issues_opened": 38,
