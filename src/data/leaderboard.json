@@ -14,7 +14,7 @@
       "username": "alvin-dennis",
       "commits": 0,
       "prs_opened": 6,
-      "prs_merged": 5,
+      "prs_merged": 6,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
@@ -31,7 +31,7 @@
     {
       "username": "erzer12",
       "commits": 0,
-      "prs_opened": 3,
+      "prs_opened": 4,
       "prs_merged": 3,
       "issues_opened": 0,
       "issues_closed": 0,
@@ -54,6 +54,15 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Nayana_Sen"
+    },
+    {
+      "username": "GOKUL-P-R",
+      "commits": 0,
+      "prs_opened": 2,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "GOKUL-P-R"
     },
     {
       "username": "Vinayapriya",
@@ -81,15 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Devika Dileep"
-    },
-    {
-      "username": "sinan404",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "SINAN M"
     }
   ],
   "overall": [
@@ -131,7 +131,7 @@
     },
     {
       "username": "awindsr",
-      "commits": 869,
+      "commits": 870,
       "prs_opened": 230,
       "prs_merged": 224,
       "issues_opened": 38,
