@@ -4,8 +4,8 @@
     {
       "username": "DevWithPranav",
       "commits": 0,
-      "prs_opened": 30,
-      "prs_merged": 30,
+      "prs_opened": 34,
+      "prs_merged": 34,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Pranav P"
@@ -13,8 +13,8 @@
     {
       "username": "alvin-dennis",
       "commits": 0,
-      "prs_opened": 6,
-      "prs_merged": 6,
+      "prs_opened": 8,
+      "prs_merged": 8,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
@@ -31,8 +31,8 @@
     {
       "username": "erzer12",
       "commits": 0,
-      "prs_opened": 4,
-      "prs_merged": 3,
+      "prs_opened": 6,
+      "prs_merged": 5,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Harshil P"
@@ -40,7 +40,7 @@
     {
       "username": "Salvin-Sebastian",
       "commits": 0,
-      "prs_opened": 5,
+      "prs_opened": 6,
       "prs_merged": 1,
       "issues_opened": 0,
       "issues_closed": 0,
@@ -50,10 +50,28 @@
       "username": "Devika123098",
       "commits": 0,
       "prs_opened": 2,
-      "prs_merged": 0,
+      "prs_merged": 1,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Devika Dileep"
+    },
+    {
+      "username": "Sidharth-sk-809",
+      "commits": 0,
+      "prs_opened": 3,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Sidharth s kumar"
+    },
+    {
+      "username": "Vinayapriya",
+      "commits": 0,
+      "prs_opened": 3,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Vinayapriya  C C"
     },
     {
       "username": "Nayadrika787",
@@ -72,24 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "GOKUL-P-R"
-    },
-    {
-      "username": "Vinayapriya",
-      "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Vinayapriya  C C"
-    },
-    {
-      "username": "shaderone",
-      "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Sharon Shaji"
     }
   ],
   "overall": [
@@ -135,7 +135,7 @@
       "prs_opened": 230,
       "prs_merged": 224,
       "issues_opened": 38,
-      "issues_closed": 35,
+      "issues_closed": 36,
       "displayname": "Awindsr"
     },
     {
