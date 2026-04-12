@@ -49,11 +49,20 @@
     {
       "username": "Devika123098",
       "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 1,
+      "prs_opened": 3,
+      "prs_merged": 2,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Devika Dileep"
+    },
+    {
+      "username": "shaderone",
+      "commits": 0,
+      "prs_opened": 4,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Sharon Shaji"
     },
     {
       "username": "Sidharth-sk-809",
@@ -81,15 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Nayana_Sen"
-    },
-    {
-      "username": "GOKUL-P-R",
-      "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "GOKUL-P-R"
     }
   ],
   "overall": [
