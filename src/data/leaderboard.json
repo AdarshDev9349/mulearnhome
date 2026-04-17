@@ -13,8 +13,8 @@
     {
       "username": "alvin-dennis",
       "commits": 0,
-      "prs_opened": 11,
-      "prs_merged": 11,
+      "prs_opened": 16,
+      "prs_merged": 16,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
@@ -38,6 +38,15 @@
       "displayname": "Harshil P"
     },
     {
+      "username": "Devika123098",
+      "commits": 0,
+      "prs_opened": 4,
+      "prs_merged": 3,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Devika Dileep"
+    },
+    {
       "username": "Salvin-Sebastian",
       "commits": 0,
       "prs_opened": 6,
@@ -47,15 +56,6 @@
       "displayname": "Salvin Sebastian"
     },
     {
-      "username": "Devika123098",
-      "commits": 0,
-      "prs_opened": 3,
-      "prs_merged": 2,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Devika Dileep"
-    },
-    {
       "username": "shaderone",
       "commits": 0,
       "prs_opened": 4,
@@ -63,6 +63,15 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Sharon Shaji"
+    },
+    {
+      "username": "codiing-5",
+      "commits": 0,
+      "prs_opened": 2,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Rojan Jose"
     },
     {
       "username": "Sidharth-sk-809",
@@ -81,15 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Vinayapriya  C C"
-    },
-    {
-      "username": "Nayadrika787",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Nayana_Sen"
     }
   ],
   "overall": [
