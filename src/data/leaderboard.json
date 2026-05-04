@@ -4,11 +4,29 @@
     {
       "username": "alvin-dennis",
       "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
+      "prs_opened": 4,
+      "prs_merged": 4,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
+    },
+    {
+      "username": "Devika123098",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Devika Dileep"
+    },
+    {
+      "username": "febin-d",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Febin Daniel"
     },
     {
       "username": "sachin-raj-m",
@@ -72,24 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "tina-cloud-app[bot]"
-    },
-    {
-      "username": "abin-karukappallil",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Abin Thomas"
-    },
-    {
-      "username": "erzer12",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Harshil P"
     }
   ],
   "overall": [
@@ -131,7 +131,7 @@
     },
     {
       "username": "awindsr",
-      "commits": 871,
+      "commits": 873,
       "prs_opened": 230,
       "prs_merged": 224,
       "issues_opened": 38,
