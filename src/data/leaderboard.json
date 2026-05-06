@@ -4,8 +4,8 @@
     {
       "username": "alvin-dennis",
       "commits": 0,
-      "prs_opened": 4,
-      "prs_merged": 4,
+      "prs_opened": 5,
+      "prs_merged": 5,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
@@ -29,31 +29,13 @@
       "displayname": "Febin Daniel"
     },
     {
-      "username": "AswinAsok",
+      "username": "sachin-raj-m",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Aswin Asok"
-    },
-    {
-      "username": "Jenin82",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Jenin Joseph"
-    },
-    {
-      "username": "Jovit-Mathew236",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Jovit Mathew"
+      "displayname": "Sachin Raj"
     },
     {
       "username": "awindsr",
@@ -65,31 +47,49 @@
       "displayname": "Awindsr"
     },
     {
-      "username": "notS0LD13R",
+      "username": "Amith-Abey-Stephen",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Joel T Vadakekalam"
+      "displayname": "Amith Abey Stephen"
     },
     {
-      "username": "Basith-P",
+      "username": "github-actions[bot]",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Basith P"
+      "displayname": "github-actions[bot]"
     },
     {
-      "username": "Alan0602",
+      "username": "AdarshDev9349",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Alan K Anil"
+      "displayname": "Adarsh Dev"
+    },
+    {
+      "username": "aflaha01",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "aflahaa"
+    },
+    {
+      "username": "tina-cloud-app[bot]",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "tina-cloud-app[bot]"
     }
   ],
   "overall": [
