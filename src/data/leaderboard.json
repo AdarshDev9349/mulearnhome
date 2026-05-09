@@ -11,6 +11,15 @@
       "displayname": "Alvin Dennis"
     },
     {
+      "username": "DevWithPranav",
+      "commits": 0,
+      "prs_opened": 4,
+      "prs_merged": 3,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Pranav P"
+    },
+    {
       "username": "awindsr",
       "commits": 0,
       "prs_opened": 2,
@@ -81,15 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "aflahaa"
-    },
-    {
-      "username": "tina-cloud-app[bot]",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "tina-cloud-app[bot]"
     }
   ],
   "overall": [
