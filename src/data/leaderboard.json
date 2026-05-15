@@ -4,8 +4,8 @@
     {
       "username": "alvin-dennis",
       "commits": 0,
-      "prs_opened": 14,
-      "prs_merged": 14,
+      "prs_opened": 20,
+      "prs_merged": 20,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
@@ -13,8 +13,8 @@
     {
       "username": "DevWithPranav",
       "commits": 0,
-      "prs_opened": 8,
-      "prs_merged": 7,
+      "prs_opened": 10,
+      "prs_merged": 9,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Pranav P"
@@ -22,8 +22,8 @@
     {
       "username": "awindsr",
       "commits": 0,
-      "prs_opened": 4,
-      "prs_merged": 4,
+      "prs_opened": 5,
+      "prs_merged": 5,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Awindsr"
@@ -122,9 +122,9 @@
     },
     {
       "username": "awindsr",
-      "commits": 883,
-      "prs_opened": 234,
-      "prs_merged": 228,
+      "commits": 893,
+      "prs_opened": 235,
+      "prs_merged": 229,
       "issues_opened": 38,
       "issues_closed": 37,
       "displayname": "Awindsr"
