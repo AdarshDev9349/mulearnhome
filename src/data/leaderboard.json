@@ -4,8 +4,8 @@
     {
       "username": "alvin-dennis",
       "commits": 0,
-      "prs_opened": 22,
-      "prs_merged": 22,
+      "prs_opened": 24,
+      "prs_merged": 23,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
@@ -22,8 +22,8 @@
     {
       "username": "awindsr",
       "commits": 0,
-      "prs_opened": 6,
-      "prs_merged": 6,
+      "prs_opened": 8,
+      "prs_merged": 8,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Awindsr"
@@ -31,8 +31,8 @@
     {
       "username": "erzer12",
       "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 1,
+      "prs_opened": 3,
+      "prs_merged": 2,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Harshil P"
@@ -65,31 +65,31 @@
       "displayname": "Adithya S Pai"
     },
     {
-      "username": "Akshayvs-Tech",
+      "username": "sachin-raj-m",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Akshay v s"
+      "displayname": "Sachin Raj"
     },
     {
-      "username": "Arya3077",
+      "username": "Amith-Abey-Stephen",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Arya Shibu Dhanya"
+      "displayname": "Amith Abey Stephen"
     },
     {
-      "username": "vedhavk",
+      "username": "github-actions[bot]",
       "commits": 0,
       "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Vedha"
+      "displayname": "github-actions[bot]"
     }
   ],
   "overall": [
@@ -122,9 +122,9 @@
     },
     {
       "username": "awindsr",
-      "commits": 896,
-      "prs_opened": 236,
-      "prs_merged": 230,
+      "commits": 904,
+      "prs_opened": 238,
+      "prs_merged": 232,
       "issues_opened": 38,
       "issues_closed": 37,
       "displayname": "Awindsr"
