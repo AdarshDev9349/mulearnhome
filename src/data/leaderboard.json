@@ -13,8 +13,8 @@
     {
       "username": "DevWithPranav",
       "commits": 0,
-      "prs_opened": 19,
-      "prs_merged": 18,
+      "prs_opened": 21,
+      "prs_merged": 20,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Pranav P"
@@ -38,6 +38,15 @@
       "displayname": "Harshil P"
     },
     {
+      "username": "frizzycodes",
+      "commits": 0,
+      "prs_opened": 2,
+      "prs_merged": 2,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Adithya S Pai"
+    },
+    {
       "username": "Devika123098",
       "commits": 0,
       "prs_opened": 1,
@@ -54,15 +63,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Febin Daniel"
-    },
-    {
-      "username": "frizzycodes",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Adithya S Pai"
     },
     {
       "username": "JilsJoseph3030",
@@ -122,7 +122,7 @@
     },
     {
       "username": "awindsr",
-      "commits": 917,
+      "commits": 918,
       "prs_opened": 243,
       "prs_merged": 237,
       "issues_opened": 38,
