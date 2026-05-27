@@ -22,8 +22,8 @@
     {
       "username": "awindsr",
       "commits": 0,
-      "prs_opened": 13,
-      "prs_merged": 13,
+      "prs_opened": 16,
+      "prs_merged": 16,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Awindsr"
@@ -40,7 +40,7 @@
     {
       "username": "frizzycodes",
       "commits": 0,
-      "prs_opened": 2,
+      "prs_opened": 3,
       "prs_merged": 2,
       "issues_opened": 0,
       "issues_closed": 0,
@@ -65,6 +65,15 @@
       "displayname": "Febin Daniel"
     },
     {
+      "username": "NKKONLINE",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Nandhan KK"
+    },
+    {
       "username": "JilsJoseph3030",
       "commits": 0,
       "prs_opened": 1,
@@ -81,15 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "nandhanab147-debug"
-    },
-    {
-      "username": "sachin-raj-m",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Sachin Raj"
     }
   ],
   "overall": [
@@ -122,9 +122,9 @@
     },
     {
       "username": "awindsr",
-      "commits": 918,
-      "prs_opened": 243,
-      "prs_merged": 237,
+      "commits": 930,
+      "prs_opened": 246,
+      "prs_merged": 240,
       "issues_opened": 38,
       "issues_closed": 37,
       "displayname": "Awindsr"
