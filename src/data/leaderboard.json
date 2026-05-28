@@ -13,8 +13,8 @@
     {
       "username": "DevWithPranav",
       "commits": 0,
-      "prs_opened": 21,
-      "prs_merged": 20,
+      "prs_opened": 24,
+      "prs_merged": 23,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Pranav P"
@@ -29,6 +29,15 @@
       "displayname": "Awindsr"
     },
     {
+      "username": "frizzycodes",
+      "commits": 0,
+      "prs_opened": 13,
+      "prs_merged": 9,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Adithya S Pai"
+    },
+    {
       "username": "erzer12",
       "commits": 0,
       "prs_opened": 3,
@@ -36,15 +45,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Harshil P"
-    },
-    {
-      "username": "frizzycodes",
-      "commits": 0,
-      "prs_opened": 3,
-      "prs_merged": 2,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Adithya S Pai"
     },
     {
       "username": "Devika123098",
@@ -65,6 +65,24 @@
       "displayname": "Febin Daniel"
     },
     {
+      "username": "GokulShaji2005",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Gokul Shaji"
+    },
+    {
+      "username": "joshnajojo12",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Joshna Jojo"
+    },
+    {
       "username": "NKKONLINE",
       "commits": 0,
       "prs_opened": 1,
@@ -72,24 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Nandhan KK"
-    },
-    {
-      "username": "JilsJoseph3030",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Jilsjoseph"
-    },
-    {
-      "username": "nandhanab147-debug",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "nandhanab147-debug"
     }
   ],
   "overall": [
@@ -122,7 +122,7 @@
     },
     {
       "username": "awindsr",
-      "commits": 930,
+      "commits": 943,
       "prs_opened": 246,
       "prs_merged": 240,
       "issues_opened": 38,
