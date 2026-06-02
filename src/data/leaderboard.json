@@ -1,95 +1,95 @@
 {
-  "month": "2026-05",
+  "month": "2026-06",
   "monthly": [
     {
       "username": "alvin-dennis",
       "commits": 0,
-      "prs_opened": 24,
-      "prs_merged": 24,
+      "prs_opened": 0,
+      "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
     },
     {
-      "username": "DevWithPranav",
+      "username": "sachin-raj-m",
       "commits": 0,
-      "prs_opened": 24,
-      "prs_merged": 23,
+      "prs_opened": 0,
+      "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Pranav P"
+      "displayname": "Sachin Raj"
     },
     {
       "username": "awindsr",
       "commits": 0,
-      "prs_opened": 17,
-      "prs_merged": 17,
+      "prs_opened": 0,
+      "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Awindsr"
     },
     {
-      "username": "frizzycodes",
+      "username": "github-actions[bot]",
       "commits": 0,
-      "prs_opened": 13,
-      "prs_merged": 9,
+      "prs_opened": 0,
+      "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Adithya S Pai"
+      "displayname": "github-actions[bot]"
     },
     {
-      "username": "erzer12",
+      "username": "Amith-Abey-Stephen",
       "commits": 0,
-      "prs_opened": 3,
-      "prs_merged": 3,
+      "prs_opened": 0,
+      "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Harshil P"
+      "displayname": "Amith Abey Stephen"
+    },
+    {
+      "username": "AdarshDev9349",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Adarsh Dev"
+    },
+    {
+      "username": "aflaha01",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "aflahaa"
+    },
+    {
+      "username": "tinacloud-app[bot]",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "tinacloud-app[bot]"
     },
     {
       "username": "Devika123098",
       "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
+      "prs_opened": 0,
+      "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Devika Dileep"
     },
     {
-      "username": "GokulShaji2005",
+      "username": "abin-karukappallil",
       "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Gokul Shaji"
-    },
-    {
-      "username": "febin-d",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Febin Daniel"
-    },
-    {
-      "username": "abykprakash465-coder",
-      "commits": 0,
-      "prs_opened": 2,
+      "prs_opened": 0,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Aby-coding"
-    },
-    {
-      "username": "joshnajojo12",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Joshna Jojo"
+      "displayname": "Abin Thomas"
     }
   ],
   "overall": [
@@ -122,9 +122,9 @@
     },
     {
       "username": "awindsr",
-      "commits": 947,
-      "prs_opened": 247,
-      "prs_merged": 241,
+      "commits": 948,
+      "prs_opened": 248,
+      "prs_merged": 242,
       "issues_opened": 38,
       "issues_closed": 37,
       "displayname": "Awindsr"
@@ -184,5 +184,5 @@
       "displayname": "Aswanth Vc"
     }
   ],
-  "date": "May 2026"
+  "date": "June 2026"
 }
