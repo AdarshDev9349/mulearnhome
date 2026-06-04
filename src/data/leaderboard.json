@@ -2,6 +2,33 @@
   "month": "2026-06",
   "monthly": [
     {
+      "username": "DevWithPranav",
+      "commits": 0,
+      "prs_opened": 4,
+      "prs_merged": 4,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Pranav P"
+    },
+    {
+      "username": "GokulShaji2005",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Gokul Shaji"
+    },
+    {
+      "username": "frizzycodes",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Adithya S Pai"
+    },
+    {
       "username": "alvin-dennis",
       "commits": 0,
       "prs_opened": 0,
@@ -63,33 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "aflahaa"
-    },
-    {
-      "username": "tinacloud-app[bot]",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "tinacloud-app[bot]"
-    },
-    {
-      "username": "Devika123098",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Devika Dileep"
-    },
-    {
-      "username": "abin-karukappallil",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Abin Thomas"
     }
   ],
   "overall": [
