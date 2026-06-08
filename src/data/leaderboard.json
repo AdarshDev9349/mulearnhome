@@ -4,8 +4,8 @@
     {
       "username": "DevWithPranav",
       "commits": 0,
-      "prs_opened": 12,
-      "prs_merged": 12,
+      "prs_opened": 13,
+      "prs_merged": 13,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Pranav P"
@@ -38,6 +38,15 @@
       "displayname": "github-actions[bot]"
     },
     {
+      "username": "erzer12",
+      "commits": 0,
+      "prs_opened": 2,
+      "prs_merged": 2,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Harshil P"
+    },
+    {
       "username": "GokulShaji2005",
       "commits": 0,
       "prs_opened": 2,
@@ -47,13 +56,13 @@
       "displayname": "Gokul Shaji"
     },
     {
-      "username": "erzer12",
+      "username": "Devika123098",
       "commits": 0,
-      "prs_opened": 2,
+      "prs_opened": 1,
       "prs_merged": 1,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Harshil P"
+      "displayname": "Devika Dileep"
     },
     {
       "username": "Yadhuthhiyyakat",
@@ -81,15 +90,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Joshna Jojo"
-    },
-    {
-      "username": "Devika123098",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Devika Dileep"
     }
   ],
   "overall": [
@@ -122,7 +122,7 @@
     },
     {
       "username": "awindsr",
-      "commits": 963,
+      "commits": 965,
       "prs_opened": 251,
       "prs_merged": 245,
       "issues_opened": 38,
