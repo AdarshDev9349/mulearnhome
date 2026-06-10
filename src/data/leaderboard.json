@@ -4,29 +4,38 @@
     {
       "username": "DevWithPranav",
       "commits": 0,
-      "prs_opened": 13,
-      "prs_merged": 13,
+      "prs_opened": 15,
+      "prs_merged": 15,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Pranav P"
     },
     {
-      "username": "frizzycodes",
+      "username": "awindsr",
       "commits": 0,
       "prs_opened": 6,
-      "prs_merged": 4,
+      "prs_merged": 6,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Awindsr"
+    },
+    {
+      "username": "frizzycodes",
+      "commits": 0,
+      "prs_opened": 7,
+      "prs_merged": 5,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Adithya S Pai"
     },
     {
-      "username": "awindsr",
+      "username": "febin-d",
       "commits": 0,
       "prs_opened": 3,
-      "prs_merged": 3,
+      "prs_merged": 2,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Awindsr"
+      "displayname": "Febin Daniel"
     },
     {
       "username": "github-actions[bot]",
@@ -36,6 +45,15 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "github-actions[bot]"
+    },
+    {
+      "username": "Devika123098",
+      "commits": 0,
+      "prs_opened": 2,
+      "prs_merged": 2,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Devika Dileep"
     },
     {
       "username": "erzer12",
@@ -56,40 +74,22 @@
       "displayname": "Gokul Shaji"
     },
     {
-      "username": "Devika123098",
+      "username": "Arya3077",
       "commits": 0,
       "prs_opened": 1,
       "prs_merged": 1,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Devika Dileep"
+      "displayname": "Arya Shibu Dhanya"
     },
     {
-      "username": "Yadhuthhiyyakat",
+      "username": "Akshayvs-Tech",
       "commits": 0,
       "prs_opened": 2,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "yadhuKrishna T M"
-    },
-    {
-      "username": "febin-d",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Febin Daniel"
-    },
-    {
-      "username": "joshnajojo12",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Joshna Jojo"
+      "displayname": "Akshay v s"
     }
   ],
   "overall": [
@@ -122,9 +122,9 @@
     },
     {
       "username": "awindsr",
-      "commits": 965,
-      "prs_opened": 251,
-      "prs_merged": 245,
+      "commits": 971,
+      "prs_opened": 254,
+      "prs_merged": 248,
       "issues_opened": 38,
       "issues_closed": 37,
       "displayname": "Awindsr"
