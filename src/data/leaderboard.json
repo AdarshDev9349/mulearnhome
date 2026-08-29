@@ -4,8 +4,8 @@
     {
       "username": "DevWithPranav",
       "commits": 0,
-      "prs_opened": 53,
-      "prs_merged": 51,
+      "prs_opened": 63,
+      "prs_merged": 61,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Pranav P"
@@ -22,8 +22,8 @@
     {
       "username": "alvin-dennis",
       "commits": 0,
-      "prs_opened": 27,
-      "prs_merged": 23,
+      "prs_opened": 33,
+      "prs_merged": 30,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Alvin Dennis"
@@ -47,6 +47,15 @@
       "displayname": "Awindsr"
     },
     {
+      "username": "DayaAravind",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 11,
+      "issues_closed": 7,
+      "displayname": "Daya Aravind"
+    },
+    {
       "username": "febin-d",
       "commits": 0,
       "prs_opened": 9,
@@ -54,15 +63,6 @@
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Febin Daniel"
-    },
-    {
-      "username": "DayaAravind",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 11,
-      "issues_closed": 6,
-      "displayname": "Daya Aravind"
     },
     {
       "username": "ABHISHEK2k6",
@@ -131,18 +131,18 @@
     },
     {
       "username": "alvin-dennis",
-      "commits": 1128,
-      "prs_opened": 253,
-      "prs_merged": 236,
+      "commits": 1175,
+      "prs_opened": 259,
+      "prs_merged": 243,
       "issues_opened": 36,
       "issues_closed": 30,
       "displayname": "Alvin Dennis"
     },
     {
       "username": "DevWithPranav",
-      "commits": 604,
-      "prs_opened": 405,
-      "prs_merged": 397,
+      "commits": 616,
+      "prs_opened": 415,
+      "prs_merged": 407,
       "issues_opened": 3,
       "issues_closed": 3,
       "displayname": "Pranav P"
