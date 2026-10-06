@@ -1,38 +1,11 @@
 {
-  "month": "2026-09",
+  "month": "2026-10",
   "monthly": [
-    {
-      "username": "DevWithPranav",
-      "commits": 0,
-      "prs_opened": 24,
-      "prs_merged": 21,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Pranav P"
-    },
-    {
-      "username": "alvin-dennis",
-      "commits": 0,
-      "prs_opened": 17,
-      "prs_merged": 16,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Alvin Dennis"
-    },
-    {
-      "username": "afifshowfeer",
-      "commits": 0,
-      "prs_opened": 6,
-      "prs_merged": 6,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "Afif Showfeer"
-    },
     {
       "username": "awindsr",
       "commits": 0,
-      "prs_opened": 4,
-      "prs_merged": 4,
+      "prs_opened": 1,
+      "prs_merged": 1,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Awindsr"
@@ -40,56 +13,83 @@
     {
       "username": "dependabot[bot]",
       "commits": 0,
-      "prs_opened": 7,
+      "prs_opened": 2,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "dependabot[bot]"
     },
     {
+      "username": "Aeshhliee",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Aeshhliee"
+    },
+    {
+      "username": "fadiparwaz10",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "fadiparwaz10"
+    },
+    {
+      "username": "nidhafathima-cy",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "nidhafathima-cy"
+    },
+    {
+      "username": "Kenainy-aizen",
+      "commits": 0,
+      "prs_opened": 0,
+      "prs_merged": 0,
+      "issues_opened": 1,
+      "issues_closed": 0,
+      "displayname": "RAVELOMANANA Mahasoa Kelly"
+    },
+    {
       "username": "joshnajojo12",
       "commits": 0,
-      "prs_opened": 3,
-      "prs_merged": 2,
+      "prs_opened": 1,
+      "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "Joshna Jojo"
     },
     {
-      "username": "erzer12",
+      "username": "ABHISHEK2k6",
       "commits": 0,
-      "prs_opened": 3,
-      "prs_merged": 2,
+      "prs_opened": 0,
+      "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Harshil P"
+      "displayname": "Abhishek P"
     },
     {
-      "username": "GokulShaji2005",
+      "username": "vaishakhwastaken",
       "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 2,
+      "prs_opened": 0,
+      "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Gokul Shaji"
+      "displayname": "Vaishakh V S"
     },
     {
-      "username": "Devika123098",
+      "username": "github-actions[bot]",
       "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 1,
+      "prs_opened": 0,
+      "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Devika Dileep"
-    },
-    {
-      "username": "Yadhuthhiyyakat",
-      "commits": 0,
-      "prs_opened": 2,
-      "prs_merged": 1,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "yadhuKrishna T M"
+      "displayname": "github-actions[bot]"
     }
   ],
   "overall": [
@@ -113,9 +113,9 @@
     },
     {
       "username": "awindsr",
-      "commits": 1377,
-      "prs_opened": 352,
-      "prs_merged": 345,
+      "commits": 1392,
+      "prs_opened": 358,
+      "prs_merged": 351,
       "issues_opened": 219,
       "issues_closed": 61,
       "displayname": "Awindsr"
@@ -175,14 +175,14 @@
       "displayname": "Bijo Mathew Jose"
     },
     {
-      "username": "vishakh-abhayan",
+      "username": "sir-danewhitman",
       "commits": 957,
       "prs_opened": 76,
       "prs_merged": 66,
       "issues_opened": 4,
       "issues_closed": 4,
-      "displayname": "Vishakh Abhayan"
+      "displayname": "Dane Whitman"
     }
   ],
-  "date": "September 2026"
+  "date": "October 2026"
 }
