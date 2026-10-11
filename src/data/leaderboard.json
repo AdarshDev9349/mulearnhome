@@ -2,58 +2,49 @@
   "month": "2026-10",
   "monthly": [
     {
-      "username": "awindsr",
+      "username": "DevWithPranav",
       "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 1,
+      "prs_opened": 7,
+      "prs_merged": 7,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Awindsr"
+      "displayname": "Pranav P"
     },
     {
       "username": "dependabot[bot]",
       "commits": 0,
-      "prs_opened": 2,
+      "prs_opened": 5,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
       "displayname": "dependabot[bot]"
     },
     {
-      "username": "Aeshhliee",
+      "username": "awindsr",
+      "commits": 0,
+      "prs_opened": 3,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Awindsr"
+    },
+    {
+      "username": "afifshowfeer",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 1,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "Afif Showfeer"
+    },
+    {
+      "username": "GokulShaji2005",
       "commits": 0,
       "prs_opened": 1,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Aeshhliee"
-    },
-    {
-      "username": "fadiparwaz10",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "fadiparwaz10"
-    },
-    {
-      "username": "nidhafathima-cy",
-      "commits": 0,
-      "prs_opened": 1,
-      "prs_merged": 0,
-      "issues_opened": 0,
-      "issues_closed": 0,
-      "displayname": "nidhafathima-cy"
-    },
-    {
-      "username": "Kenainy-aizen",
-      "commits": 0,
-      "prs_opened": 0,
-      "prs_merged": 0,
-      "issues_opened": 1,
-      "issues_closed": 0,
-      "displayname": "RAVELOMANANA Mahasoa Kelly"
+      "displayname": "Gokul Shaji"
     },
     {
       "username": "joshnajojo12",
@@ -65,31 +56,40 @@
       "displayname": "Joshna Jojo"
     },
     {
-      "username": "ABHISHEK2k6",
+      "username": "anjuniranjana21-design",
       "commits": 0,
-      "prs_opened": 0,
+      "prs_opened": 1,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Abhishek P"
+      "displayname": "anjuniranjana21-design"
     },
     {
-      "username": "vaishakhwastaken",
+      "username": "aswin-ml-dev",
       "commits": 0,
-      "prs_opened": 0,
+      "prs_opened": 1,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "Vaishakh V S"
+      "displayname": "aswin-ml-dev"
     },
     {
-      "username": "github-actions[bot]",
+      "username": "helbashoby",
       "commits": 0,
-      "prs_opened": 0,
+      "prs_opened": 1,
       "prs_merged": 0,
       "issues_opened": 0,
       "issues_closed": 0,
-      "displayname": "github-actions[bot]"
+      "displayname": "Helba Shoby"
+    },
+    {
+      "username": "FuriousDragon07",
+      "commits": 0,
+      "prs_opened": 1,
+      "prs_merged": 0,
+      "issues_opened": 0,
+      "issues_closed": 0,
+      "displayname": "FuriousDragon07"
     }
   ],
   "overall": [
@@ -114,7 +114,7 @@
     {
       "username": "awindsr",
       "commits": 1392,
-      "prs_opened": 358,
+      "prs_opened": 360,
       "prs_merged": 351,
       "issues_opened": 219,
       "issues_closed": 61,
@@ -140,9 +140,9 @@
     },
     {
       "username": "DevWithPranav",
-      "commits": 657,
-      "prs_opened": 444,
-      "prs_merged": 433,
+      "commits": 666,
+      "prs_opened": 451,
+      "prs_merged": 440,
       "issues_opened": 3,
       "issues_closed": 3,
       "displayname": "Pranav P"
